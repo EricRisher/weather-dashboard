@@ -48,6 +48,7 @@ The Weather Dashboard aims to provide a valuable and user-friendly experience fo
    ```bash
    git clone https://github.com/ericdotme/weather-dashboard.git
    ```
+    https://ericrisher.github.io/weather-dashboard/
 
   ## Usage
 The Weather Dashboard app provides a simple and user-friendly platform for checking real-time weather conditions and a 5-day forecast for any city. Users can easily:
