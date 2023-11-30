@@ -41,7 +41,7 @@ While the Weather Dashboard currently serves as a practical tool for weather tra
 
 The Weather Dashboard aims to provide a valuable and user-friendly experience for individuals seeking quick and reliable weather updates.
 
-
+![Alt text](<Assets/Screenshot Capture - 2023-11-29 - 19-33-39.png>)
  
 
   ## Installation
