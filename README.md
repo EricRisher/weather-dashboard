@@ -53,9 +53,13 @@ The Weather Dashboard aims to provide a valuable and user-friendly experience fo
 The Weather Dashboard app provides a simple and user-friendly platform for checking real-time weather conditions and a 5-day forecast for any city. Users can easily:
 
 Search for Cities: Enter the name of a city to view its current weather details.
+
 View Current Conditions: Instantly access information such as temperature, humidity, and wind speed.
+
 Plan Ahead: Check the 5-day forecast to make informed decisions about upcoming weather conditions.
+
 Search History: Revisit weather details for previously searched cities with the history feature.
+
 Clean Interface: Experience a visually appealing and clutter-free design for a seamless user experience.
 
   ## Contributing
